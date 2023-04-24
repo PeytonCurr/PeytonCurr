@@ -1,4 +1,14 @@
-### Hi there 👋
+I'm Peyton Curr. Currently I am a full-stack web delevoper and student at Boise CodeWorks. I also have a professional background in Technical Support & System administration/ integration. 
+
+
+-- 🌱 I’m currently learning • C# • Tailwind • SQL
+
+-- 🌳 Skils • JavaScript • Vue3 • Node.js • HTML • CSS • BootStrap
+
+-- 📫 How to reach me • LinkedIn: https://www.linkedin.com/in/peyton-curr-b00618233/ • Email: peyton.curr@gmail.com
+
+-- Fun facts • 💪 I am a Bodybuilder • 🍚🍗 I have a passion for fitness and nutrition • 🐈 Cat dad • 🎮 Past Esports competitor
+
 
 <!--
 **PeytonCurr/PeytonCurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

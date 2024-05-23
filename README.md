@@ -7,7 +7,7 @@ Ever since I can remember, I have always had a passion for logical problem solvi
 
 -- 📫 How to reach me • LinkedIn: https://www.linkedin.com/in/peyton-curr-b00618233/ • Email: peyton.curr@gmail.com
 
--- Fun facts • 💪 I am a Bodybuilder • 🍚🍗 I have a passion for fitness and nutrition • 🐈 Cat dad • 🎮 Past Esports competitor
+-- Fun facts • 💪 I am a Bodybuilder • 🐈 Cat dad • 🎮 Esports - Past competitor - Current Enjoyer
 
 
 <!--
